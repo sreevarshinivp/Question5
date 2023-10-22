@@ -1,0 +1,8 @@
+name: app1
+dependencies:
+  flutter:
+    sdk: flutter
+
+environment:
+  sdk: ^3.0.0
+  
